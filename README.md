@@ -15,7 +15,7 @@ See the following repo for the associated client application that must be run on
 https://github.com/BrunoJJE/bodyctrl-xlnx-kria
 
 
-# Warning !
+## Warning !
 
 Performances are poor for now !
 
@@ -26,7 +26,7 @@ Because of this, this can be used to test things, but you won't be able to reall
 You have been warned !
 
 
-# Setup
+## Setup
 
 A PC, that will run the game that you want to control with your body.
 
@@ -36,7 +36,7 @@ A 'Kria' board with :
 - linux running on it (with keyboard and monitor)
 
 
-# Usage
+## Usage
 
 Launch the server app on your PC :
 
@@ -58,7 +58,7 @@ To toggle on and off the 'body control', you must stay about 10 seconds in front
 Make sure the game is launch and has focus on your PC before activating the body control !
 
 
-# Keyboard/Mouse actions
+## Keyboard/Mouse actions
 
 The following actions are defined (they have been tested with the free to play game 'Destiny2' configured for
 keyboard/mouse control).
@@ -75,7 +75,7 @@ keyboard/mouse control).
        fire     : left mouse button
 
 
-# Body control commands
+## Body control commands
 
 The following body control command are defined (and linked to keyboard/mouse actions).
 
